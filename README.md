@@ -18,3 +18,8 @@ My name is Carl and I am a full-stack software engineer who work with Ruby, Java
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-030303?logo=Adobe Photoshop&style=flat-square&logoColor=#31A8FF" />
 <img alt="Ableton Live" src="https://img.shields.io/badge/Ableton Live-030303?logo=Ableton Live&style=flat-square&logoColor=#000000" />
 </p>
+
+---
+
+- I am currently in full job search mode!
+- I also make <a target="_blank" href="https://archo-logic1.bandcamp.com/">music</a> in my free time
