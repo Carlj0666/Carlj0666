@@ -21,5 +21,5 @@ My name is Carl and I am a full-stack software engineer who work with Ruby, Java
 
 ---
 
-- I am currently in wading back into the job market!
+- I am currently getting back into the job market!
 - I also make <a target="_blank" rel="noopener noreferrer" href="https://archo-logic1.bandcamp.com/">music</a> in my free time
