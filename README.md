@@ -1,4 +1,4 @@
-<img src="CJLogo.png" alt="banner" />
+<img src="CJlogo2.png" alt="banner" />
 
 ### Hey! Welcome to my GitHub page
 
