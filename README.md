@@ -28,3 +28,9 @@ My name is Carl and I am a full-stack software engineer who work with Ruby, Java
 
 ### Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlj0666&count_private=true&title_color=008037&icon_color=FF5757&bg_color=21232E&border_color=FFBD59&locale=en&text_color=7BC65B&custom_title=Carl's+GitHub+Stats&show_icons=true" />
+
+---
+
+### Languages
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlj0666&count_private=true&title_color=008037&icon_color=FF5757&bg_color=21232E&border_color=FFBD59&locale=en&text_color=7BC65B&custom_title=Carl's+Languages&show_icons=true&layout=compact"/>
