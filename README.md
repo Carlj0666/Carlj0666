@@ -5,7 +5,7 @@
 My name is Carl and I am a full-stack software engineer who work with Ruby, JavaScript, HTML, and CSS. I am a Flatiron School alumni with loads of personal interests and hobbies. I'm looking for oppurtunities to contribute my skills and knowledge to the right team. 
 
 ---
-### Stats
+### Skills
 <p>
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-030303?logo=Ruby&style=flat-square&logoColor=CC342D" />
 <img alt="Rails" src="https://img.shields.io/badge/Ruby on Rails-030303?logo=Ruby on Rails&style=flat-square&logoColor=CC0000" />
