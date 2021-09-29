@@ -33,5 +33,6 @@ My name is Carl and I am a full-stack software engineer who works with Ruby, Jav
 ---
 
 ### What else?
+- Currently learning Node, Mongo and Mongoose.
 - I also make <a target="_blank" rel="noopener noreferrer" href="https://archo-logic1.bandcamp.com/">music</a> in my free time
 
