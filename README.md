@@ -2,7 +2,7 @@
 
 ### Hey! Welcome to my GitHub page
 
-My name is Carl and I am a full-stack software engineer who works with Ruby, JavaScript, HTML, and CSS. I am a Flatiron School alumni with loads of personal interests and hobbies. I'm looking for oppurtunities to contribute my skills and knowledge to the right team. 
+My name is Carl and I am a full-stack software engineer who works with Ruby, JavaScript, HTML, and CSS. I am a Flatiron School alumni with 20 years of experience as a musician, composer and music technologist. I'm looking for oppurtunities to contribute my skills and knowledge to the right team. 
 
 ---
 ### Skills
