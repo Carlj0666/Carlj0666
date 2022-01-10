@@ -12,7 +12,6 @@ My name is Carl and I am a full-stack software engineer who works with Ruby, Jav
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-030303?logo=JavaScript&style=flat-square&logoColor=F7DF1E" />
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-030303?logo=SQLite&style=flat-square&logoColor=003B57" />
 <img alt="React" src="https://img.shields.io/badge/React-030303?logo=React&style=flat-square&logoColor=#61DAFB" />
-<img alt="Redux" src="https://img.shields.io/badge/Redux-030303?logo=Redux&style=flat-square&logoColor=764ABC" />
 <img alt="html5" src="https://img.shields.io/badge/HTML5-030303?logo=HTML5&style=flat-square&logoColor=E34F26" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-030303?logo=CSS3&style=flat-square&logoColor=1572B6" />
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-030303?logo=Adobe Photoshop&style=flat-square&logoColor=#31A8FF" />
